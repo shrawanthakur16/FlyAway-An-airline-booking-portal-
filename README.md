@@ -45,7 +45,9 @@ You must use the following:
 
 * SQL: To create tables for admin, airlines, and other specifics
 	current userId: test@gmail.com
+	
 	current password: admin
+	
 
 * Maven: To create a web-enabled Maven project
 
