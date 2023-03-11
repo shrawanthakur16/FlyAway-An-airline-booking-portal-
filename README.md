@@ -74,7 +74,7 @@ Following requirements should be met:
 
     * Links to the GitHub repository to verify the project completion
 
-##Sprints Planned:
+## Sprints Planned:
 1. Sprint 1
 	a. Developed Home Page
 	b. Developed admin login page and admin panel
