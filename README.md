@@ -74,6 +74,17 @@ Following requirements should be met:
 
     * Links to the GitHub repository to verify the project completion
 
+##Sprints Planned:
+1. Sprint 1
+	a. Developed Home Page
+	b. Developed admin login page and admin panel
+	c. Developed master flights addition page
+	d. Developed flights listing page on admin side
+2. Sprint 2
+	a. Developed flights details page on user side
+	b. Developed passenger details entry page
+	c. Developed flight summary page and payment page
+
 
 ## Using the application
 
@@ -108,18 +119,12 @@ Following requirements should be met:
 
 ## Technologies
 
-Technologies used in project:
+Technologies used in the project include:
 
 -java 8 \
--Eclipse \
--Tomcat v8.5 \
--MySql \
+-Spring Tool Suite based on top of eclipse (Trainer advised the same) \
+-Tomcat v8.5 server\
+-MySql database\
 -Maven Web App and Hibernate Integration
 
-## Setup
 
-Run this as a Java Project
-
-```
-Right-Click on the project in Java IDE and run it as a server.
-```
