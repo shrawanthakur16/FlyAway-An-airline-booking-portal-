@@ -127,10 +127,10 @@ Following requirements should be met:
 
 Technologies used in the project include:
 
--java 8 \
--Spring Tool Suite based on top of eclipse (Trainer advised the same) \
--Tomcat v8.5 server\
--MySql database\
--Maven Web App and Hibernate Integration
+1. Java 8 \
+2. Spring Tool Suite based on top of Eclipse (Trainer advised the same) \
+3. Tomcat v8.5 server\
+4. MySql database\
+5. Maven Web App and Hibernate Integration
 
 
