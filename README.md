@@ -3,6 +3,12 @@ This is a FlyAway Airline Reservation System built using hibernate, MySQL and To
 
 # Description
 
+## Table of Contents
+	1. Problem Statement and objective
+	2. Sprints Planned
+	3. Using the application
+	4. Technologies used
+
 ### Project objective:
 
 The website needs to have the following features:
@@ -75,7 +81,7 @@ Following requirements should be met:
     * Links to the GitHub repository to verify the project completion
 
 ## Sprints Planned:
- Sprint 1
+ ### Sprint 1
 	a. Developed Home Page
 	
 	b. Developed admin login page and admin panel
@@ -84,7 +90,7 @@ Following requirements should be met:
 	
 	d. Developed flights listing page on admin side
 	
- Sprint 2
+ ### Sprint 2
 	a. Developed flights details page on user side
 	
 	b. Developed passenger details entry page
@@ -123,7 +129,7 @@ Following requirements should be met:
 9. Once payment is successful, it will take the user back to starting page.
 
 
-## Technologies
+## Technologies Used
 
 Technologies used in the project include:
 
