@@ -75,14 +75,20 @@ Following requirements should be met:
     * Links to the GitHub repository to verify the project completion
 
 ## Sprints Planned:
-1. Sprint 1
+ Sprint 1
 	a. Developed Home Page
+	
 	b. Developed admin login page and admin panel
+	
 	c. Developed master flights addition page
+	
 	d. Developed flights listing page on admin side
-2. Sprint 2
+	
+ Sprint 2
 	a. Developed flights details page on user side
+	
 	b. Developed passenger details entry page
+	
 	c. Developed flight summary page and payment page
 
 
